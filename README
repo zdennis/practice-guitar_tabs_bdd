@@ -1,0 +1,13 @@
+This was walking through Ryan Greenhall's BDD by example
+tutorial. 
+
+http://www.ryangreenhall.com/articles/bdd-by-example.html
+
+To run specs:
+  rake spec
+  
+To run features:
+  rake features
+    OR
+  cucumber -p default features/
+
